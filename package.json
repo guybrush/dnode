@@ -27,7 +27,7 @@
         "lazy" : ">=1.0.5 <1.1",
         "weak": "*",
         "traverse" : "0.4.x",
-        "dnode-protocol" : "0.1.x",
+        "dnode-protocol" : "https://github.com/thejh/dnode-protocol/tarball/networked-gc-2",
         "jsonify" : "0.0.x"
     },
     "devDependencies" : {
