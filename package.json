@@ -23,11 +23,11 @@
     },
     "dependencies" : {
         "socket.io" : "0.8.6",
-        "socket.io-client" : "https://github.com/substack/socket.io-client/tarball/master",
+        "socket.io-client" : "git://github.com/substack/socket.io-client.git#master",
         "lazy" : ">=1.0.5 <1.1",
         "weak": "*",
         "traverse" : "0.4.x",
-        "dnode-protocol" : "https://github.com/thejh/dnode-protocol/tarball/networked-gc-2",
+        "dnode-protocol" : "git://github.com/thejh/dnode-protocol.git#networked-gc-2",
         "jsonify" : "0.0.x"
     },
     "devDependencies" : {
